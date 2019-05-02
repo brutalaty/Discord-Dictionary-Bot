@@ -1,0 +1,25 @@
+{
+  "name": "dictionary-bot",
+  "version": "1.0.0",
+  "description": "Use Merriam-Webster Dictionary API to return word definitions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brutalaty/Discord-Dictionary-Bot.git"
+  },
+  "author": "Joshua Ditton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brutalaty/Discord-Dictionary-Bot/issues"
+  },
+  "homepage": "https://github.com/brutalaty/Discord-Dictionary-Bot#readme",
+  "dependencies": {
+    "@types/node": "^11.13.8",
+    "axios": "^0.18.0",
+    "discord.js": "^11.4.2"
+  }
+}

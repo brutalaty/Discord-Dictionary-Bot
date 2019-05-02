@@ -1,0 +1,11 @@
+{
+  "host": "https://wordsapiv1.p.rapidapi.com",
+  "headerKey": {
+    "key": "X-RapidAPI-Key",
+    "value": "insert your API Key here"
+  },
+  "headerHost": {
+    "key": "X-RapidAPI-Host",
+    "value": "wordsapiv1.p.rapidapi.com"
+  }
+}
