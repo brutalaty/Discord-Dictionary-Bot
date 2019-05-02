@@ -1,5 +1,6 @@
 # Dictionary-Bot
 A very simple bot that shows the definitions of entered words.
+
 example:
 \`define peristalsis
 
