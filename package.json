@@ -19,7 +19,7 @@
   "homepage": "https://github.com/brutalaty/Discord-Dictionary-Bot#readme",
   "dependencies": {
     "@types/node": "^11.13.8",
-    "axios": "^0.18.0",
+    "axios": "^0.21.2",
     "discord.js": "^11.4.2"
   }
 }
